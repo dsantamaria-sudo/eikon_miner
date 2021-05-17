@@ -1,5 +1,5 @@
 #%%
-#DESCARGAMOS LAS LIBRERIAS
+#IMPORT ALL LIBRARIES
 
 import pandas as pd
 import numpy as np
