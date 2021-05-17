@@ -23,7 +23,7 @@ In summary the steps followed in the [code](https://github.com/dsantamaria-sudo/
 
 
 # Resources
-Material related to our code is available via the following links (all of them since 01-01-2000):
+Material related to our code is available via the following links:
 
   - SP&500 daily OHLC data: LINK
   - Daily S&P500 constituents: LINK
