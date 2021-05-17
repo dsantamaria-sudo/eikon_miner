@@ -1,4 +1,4 @@
-![EIKON](https://user-images.githubusercontent.com/74096987/118450549-9996bb80-b6f4-11eb-8097-4cfeae3003fa.JPG)
+![EIKON](https://user-images.githubusercontent.com/74096987/118463524-2004ca80-b700-11eb-83ef-2667931eb2e3.JPG)
 
 # Authors
 
