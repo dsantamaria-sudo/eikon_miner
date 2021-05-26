@@ -24,10 +24,10 @@ In summary the steps followed in the [code](https://github.com/dsantamaria-sudo/
 ## Resources
 Material related to our code is available via the following links:
 
-  - SP&500 daily OHLC data: LINK
-  - Daily S&P500 constituents: LINK
-  - Daily OHLC data for all SP&500 constituents: LINK
-  - Sector for all SP&500 constituents: LINK
+  - SP&500 daily OHLC data: LINK SOON
+  - Daily S&P500 constituents: LINK SOON
+  - Daily OHLC data for all SP&500 constituents: LINK SOON
+  - Sector for all SP&500 constituents: LINK SOON
 
   
 ## No Responsibility Disclaimer
