@@ -60,7 +60,7 @@ for day in dates:
         print(err)
         
 #STORE INFORMATION ON A PICKLE
-pickle.dump(dict_constituents, open("constituents_by_day.p", "wb"))
+pickle.dump(constituents_by_day, open("constituents_by_day.p", "wb"))
          
 #-------------------------------3º LIST WITH UNIQUE RICS IN THE WHOLE PERIOD-------------------------------
 
@@ -87,7 +87,7 @@ pickle.dump(uniq_rics, open("uniq_rics.p", "wb"))
 data ={}
 error = []
 
-for ticker in uniq_rics[]:
+for ticker in uniq_rics:
    
     ric = ticker
     end_date = dt.datetime.utcnow()
